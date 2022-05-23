@@ -13,6 +13,6 @@ Instalation:
 
 Basic ussage:
 1. Configure the tool using `./submit.py -i`. This command will ask you for basic info : oioioi adress, username and password. The info will be saved in `.oioioi-submit-config` in your home directory. If you wish not to store your credentials in a file, leve them empty and you will be prompted during submission.
-2. Submit a solution using `./submit.py -t <task_code> [file to submit]`
+2. Submit a solution using `./submit.py -t <problem_code> [file to submit]`
 
-Task codes are displayed in the first column in problem list. You can also acces them by writing an invalid one - the script will print a list of problems and their codes.
+Problem codes are displayed in the first column in problem list. You can also acces them by writing an invalid one - the script will print a list of problems and their codes.
