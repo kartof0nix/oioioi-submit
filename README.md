@@ -13,7 +13,7 @@ Instalation:
 1. Install the required libraries : `pip install requests requests-toolbelts bs4`
 2. Download the appropiate submit.py file
 3. Rename the file to submit.py
-4. On UNIX-based systems add executability with `chmod u+x submit.py` 
+4. On linux-based systems add executability with `chmod u+x submit.py` 
 
 (on some systems `./submit.py` will not work - use `python submit.py`)
 
